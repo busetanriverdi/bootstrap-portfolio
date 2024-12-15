@@ -1,0 +1,30 @@
+
+
+.navbar-bg{
+    background-color: #f28b22;
+}
+.firstbox-bg{
+    background-color: #ffcd7c;
+
+}
+.portfolio-heading{
+    color:#198754;
+}
+.about-container{
+    background-color: #ffcd7c;
+}
+.about-heading{
+    font-size: 36px;
+}
+.info-container{
+    background-color: #f28b22;
+    text-align: center;
+}
+
+.copyright{
+    background-color: #ee851c;
+    color: whitesmoke;
+}
+p{
+    font-size: 14px;
+}
